@@ -1,1 +1,1 @@
-tel download
+telIMG download
